@@ -89,7 +89,7 @@ let mix = require( 'laravel-mix' );
  |
  | Here you can define your custom strip tags. For example, you may use:
  | [ 'develblock', 'debug' ]
- | inorder to strip "debug:start" and "debug:end" as well
+ | in order to strip "debug:start" and "debug:end" as well
  |
  */
 
